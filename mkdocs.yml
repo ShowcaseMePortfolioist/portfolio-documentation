@@ -26,3 +26,12 @@ theme:
         name: Switch to light mode
       primary: teal
       accent: light blue
+
+nav:
+  -  Getting Stared: "index.md"
+  -  HTML Structure: "html.md"
+  -  Portfolio: "portfolio.md"
+  -  Others: "css.md"
+  -  Credits: "credits.md"
+  -  Changelog: "changelog.md"
+  -  Help: "help.md"
