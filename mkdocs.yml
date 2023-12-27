@@ -28,10 +28,27 @@ theme:
       accent: light blue
 
 nav:
-  -  Getting Stared: "index.md"
-  -  HTML Structure: "html.md"
-  -  Portfolio: "portfolio.md"
-  -  Others: "css.md"
-  -  Credits: "credits.md"
-  -  Changelog: "changelog.md"
-  -  Help: "help.md"
+  - Getting Stared: "index.md"
+  - HTML Structure: "html.md"
+  - Portfolio: "portfolio.md"
+  - Others: "css.md"
+  - Credits: "credits.md"
+  - Changelog: "changelog.md"
+  - Help: "help.md"
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/ShowcaseMePortfolioist"  target="_blank" rel="noopener">ShowcaseMe Portfolioist</a>
