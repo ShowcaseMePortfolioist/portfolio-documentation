@@ -99,3 +99,14 @@ function functionName() {
   //Add here your custom js code
 }
 ```
+
+---
+
+## Changing Images
+
+You can change the images in the page by following these steps:
+
+- Go to `assets/images` folder.
+
+- Replace the images in that folder with your relevant images.
+
