@@ -14,6 +14,7 @@ All images come from the following authors and site:
 
 - Unsplash
 - Pexels
+- Freepik
 
 **_Note_**: Image used only for demonstration purposes. They aren't included in the package.
 
