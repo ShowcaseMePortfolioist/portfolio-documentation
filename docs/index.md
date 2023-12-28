@@ -110,3 +110,13 @@ You can change the images in the page by following these steps:
 
 - Replace the images in that folder with your relevant images.
 
+---
+
+## Changing Resueme
+
+You can change your resume and make it available for download.
+
+- Go to `assets/resuem` folder
+
+- Replace the `resuem.pdf` file with your resume
+
