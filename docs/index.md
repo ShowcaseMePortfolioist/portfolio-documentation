@@ -10,12 +10,12 @@ To initiate your site template exploration, proceed with the steps outlined belo
 
 3.  Make sure you upload all the required files/folders listed below:
 
-    - `assets/css` : Stylesheets Folder
-    - `assets/css/styles.css` : Main Stylesheet File
-    - `assets/js` : Javascript Folder
-    - `assets/js/script.js` : Main Javascript File
-    - `assets/images` : Image Folder
-    - `index.html` : Index File/Homepage
+    - `template/assets/css` : Stylesheets Folder
+    - `template/assets/css/styles.css` : Main Stylesheet File
+    - `template/assets/js` : Javascript Folder
+    - `template/assets/js/script.js` : Main Javascript File
+    - `template/assets/images` : Image Folder
+    - `template/index.html` : Index File/Homepage
 
 ---
 
