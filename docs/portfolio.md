@@ -2,7 +2,7 @@
 
 ## Carousel Slider
 
-This template provides an elegant way to showcase your works using Carousel Slider powered by Javascript.
+This template provides an elegant way to showcase your work using a Carousel Slider powered by Javascript.
 
 **_Code Example_**
 
@@ -28,11 +28,11 @@ This template provides an elegant way to showcase your works using Carousel Slid
 
 ## Project Page
 
-The project page consist of five section.
+The project page consists of five sections.
 
 ### Hero
 
-This page contains the titles, subtitles, image and docs.
+This section contains titles, subtitles, images, and documents.
 
 **_Code Example_**
 
@@ -69,7 +69,7 @@ This page contains the titles, subtitles, image and docs.
 
 ### Services
 
-This sections contains about the services you offer.
+This section contains information about the services you offer.
 
 **_Code Example_**
 
@@ -106,7 +106,7 @@ This sections contains about the services you offer.
 
 ### Skills
 
-This sections showcases your skill in an elegant way.
+This section showcases your skills in an elegant way.
 
 **_Code Example_**
 
@@ -126,7 +126,7 @@ This sections showcases your skill in an elegant way.
 
 ### Portfolio
 
-This section showcases your works in a well crafted carousel.
+This section showcases your work in a well-crafted carousel.
 
 **_Code Example_**
 
@@ -154,7 +154,7 @@ This section showcases your works in a well crafted carousel.
 
 ### Blog
 
-This section talks about your perspective and latest news on recent technologies.
+This section talks about your perspective and the latest news on recent technologies.
 
 **_Code Example_**
 
