@@ -2,7 +2,7 @@
 
 ## Header
 
-This section is alwaus fixed on top and contains the logo, the navigation and the option menu.
+This section remains fixed on top and contains the logo, navigation, and option menu.
 
 **_Code Example_**
 
@@ -30,7 +30,7 @@ This section is alwaus fixed on top and contains the logo, the navigation and th
 
 ## Logo Settings
 
-You can set your logo or the name of your website in here.
+Here, you can set your logo or the name of your website.
 
 **_Code Example_**
 
@@ -47,7 +47,7 @@ You can set your logo or the name of your website in here.
 
 ## Navigation Type and Structure
 
-This Website has a Menu for navigation. The navigation links are inside the Option Menu.
+This website employs a menu for navigation, with the navigation links contained inside the option menu.
 
 **_Code Example_**
 
@@ -104,7 +104,7 @@ This section contains the page title and subtitles.
 
 ## Content
 
-These sections contains the contents of the webpage.
+These sections contain the webpage's contents.
 
 **_Code Example_**
 
@@ -114,7 +114,7 @@ These sections contains the contents of the webpage.
 
 ## Footer
 
-This section contains the Social Links, Copyright Info and Contact Information.
+This section contains Social Links, Copyright Info, and Contact Information.
 
 **_Code Example_**
 
