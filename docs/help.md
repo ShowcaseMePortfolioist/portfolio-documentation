@@ -8,4 +8,4 @@ Contact us:
 
 E-Mail : showcaseme.portfolioist@outlook.com
 
-linkedin : linkedin.com/in/showcaseme-portfolioist-3926992a1
+linkedin : https://www.linkedin.com/in/showcaseme-portfolioist-3926992a1/
