@@ -2,13 +2,13 @@
 
 ## Installation
 
-To initiate your site template exploration, proceed with the steps outlined below:
+To begin exploring your site template, follow these steps:
 
-1.  Open the `package` folder to find all the templates files.
+1.  Open the `template` folder to locate all template files.
 
-2.  Upload these files to your Web Server in order to use it on your Website.
+2.  Upload these files to your Web Server for use on your Website.
 
-3.  Make sure you upload all the required files/folders listed below:
+3.  Ensure you upload all the necessary files/folders listed below:
 
     - `template/assets/css` : Stylesheets Folder
     - `template/assets/css/styles.css` : Main Stylesheet File
@@ -21,11 +21,11 @@ To initiate your site template exploration, proceed with the steps outlined belo
 
 ## Page Options
 
-These features you need to set up before editing your site template:
+These settings need configuration before editing your site template:
 
 ### Changing Fonts
 
-You can use Google Fonts API by adding a stylesheet link to request desired web font(s) inside each page **head** tags.
+Utilize Google Fonts API by adding a stylesheet link to request desired web font(s) inside each page's **head** tags.
 
 **_Code Example_**
 
@@ -47,7 +47,7 @@ body {
 }
 ```
 
-If you want to use self-hosted fonts, use the following code at the top of the `style.css` file.
+For self-hosted fonts, use this code at the top of the `style.css` file.
 
 ```css
 @font-face {
@@ -58,13 +58,13 @@ If you want to use self-hosted fonts, use the following code at the top of the `
 }
 ```
 
-You need to place the fonts files inside `fonts` folder in the template **_Root Folder_**.
+Place the font files inside the `fonts` folder in the template's Root Folder..
 
 ---
 
 ### Smooth Scroll
 
-Smooth scrollbar is a **_HTML Element_** that allows high performance scrollbars. To enable it you need to set `scroll-behaviour` as `smooth` in the `style.css` stylesheet file.
+Enable smooth scrolling by setting `scroll-behavior` as `smooth` in the `style.css` stylesheet file.
 
 **_Code Example_**
 
@@ -78,23 +78,25 @@ html {
 
 ### Page Color Scheme
 
-The colors used in the page can be change in the `root` elemment in the `style.css` file.
+Adjust page colors in the `root` element within the `style.css` file.
 
-- Open the `style.css` file and in the `:root` section, find the colors area.
+- Open `style.css`
 
-- You can adjust the variable name and the color of the whole page.
+- Inside the `:root` section, locate the color area.
 
-**_Note_**: The variable name must be change throughout the whole stylesheet.
+- Modify the variable name and associated color for the entire page.
+
+**_Note_**: Ensure the variable name change reflects throughout the stylesheet.
 
 ---
 
 ## Custom JS Code
 
-You can add your custom Javascript Code in the `assets/script.js` file.
+Add your custom JavaScript Code within the `assets/script.js` file.
 
 **_Code Example_**
 
-```js
+```javascript
 function functionName() {
   //Add here your custom js code
 }
@@ -104,19 +106,18 @@ function functionName() {
 
 ## Changing Images
 
-You can change the images in the page by following these steps:
+Replace images on the page following these steps:
 
-- Go to `assets/images` folder.
+- Navigate to the` assets/images` folder.
 
-- Replace the images in that folder with your relevant images.
+- Substitute the existing images with your relevant images.
 
 ---
 
 ## Changing Resume
 
-You can change your resume and make it available for download.
+Update your resume for download:
 
-- Go to `assets/resume` folder
+- Visit the `assets/resume` folder.
 
-- Replace the `resume.pdf` file with your resume
-
+- Replace the `resume.pdf` file with your updated resume.
